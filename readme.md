@@ -1,5 +1,5 @@
 # GifExpertApp
 
-This is my repository of Rract GifExpertApp Project
+This is my repository of React GifExpertApp Project
 
 
